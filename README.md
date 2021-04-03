@@ -1,1 +1,1 @@
-# superappka
+# superappka - úkol Czechitas
